@@ -16,4 +16,4 @@ Austin bike-sharing dataset (CapMetro).
 - Some stations are consistently underused
 
 ## Files
-- `bike_analysis.ipynb` – Full analysis notebook
+- `Mini_Project_Adeniyi_Rukayat.ipynb` – Full analysis notebook
