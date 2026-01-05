@@ -13,7 +13,7 @@ Data analyst skilled in Excel, Power BI, and Python, focused on transforming raw
 ## Projects
 🚲 **Bike Sharing Usage Analysis**  
 Exploratory analysis to uncover peak usage patterns and user behavior using Python and pandas.  
-👉 [View Project]((https://github.com/AdeAdeB/data-analytics-portfolio/tree/main/austin-bike-sharing-analysis))
+👉 [View Project](https://github.com/AdeAdeB/data-analytics-portfolio/tree/main/austin-bike-sharing-analysis)
 
 ## Contact
 - GitHub: https://github.com/AdeAdeB
