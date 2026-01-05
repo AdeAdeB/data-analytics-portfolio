@@ -32,4 +32,4 @@ Austin bike-sharing dataset (CapMetro).
 
 
 ## Files
-- `Mini_Project_Adeniyi_Rukayat.ipynb` – Full analysis notebook
+- `[Mini_Project_Adeniyi_Rukayat.ipynb](https://github.com/AdeAdeB/data-analytics-portfolio/blob/main/austin-bike-sharing-analysis/Mini_Project_Adeniyi_Rukayat.ipynb)` – Full analysis notebook
