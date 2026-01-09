@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data-analytics-portfolio
 # Rukayat Adeniyi – Data Analyst
 
 Data analyst skilled in Excel, Power BI, and Python, focused on transforming raw data into actionable business insights.
@@ -14,12 +14,14 @@ Data analyst skilled in Excel, Power BI, and Python, focused on transforming raw
 🚲 **Bike Sharing Usage Analysis**  
 Exploratory analysis to uncover peak usage patterns and user behavior using Python and pandas.  
 👉 [View Notebook](https://nbviewer.org/github/AdeAdeB/Bike-share-analysis/blob/main/Notebook/Mini_Project_Adeniyi_Rukayat.ipynb)
+
 👉 [View GitHub Repository](https://github.com/AdeAdeB/Bike-share-analysis)
 
 ### 🚢 Titanic Survival Analysis
 Exploratory analysis of passenger data to identify demographic and socio-economic factors influencing survival outcomes.
 
 👉 [View Notebook](https://nbviewer.org/github/AdeAdeB/Titanic_Survival_Analysis/blob/main/notebooks/Titanic%20Analysis.ipynb)
+
 👉 [View GitHub Repository](https://github.com/AdeAdeB/Titanic_Survival_Analysis)
 
 ## Contact
