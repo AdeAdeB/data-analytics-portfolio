@@ -13,7 +13,8 @@ Data analyst skilled in Excel, Power BI, and Python, focused on transforming raw
 ## Projects
 🚲 **Bike Sharing Usage Analysis**  
 Exploratory analysis to uncover peak usage patterns and user behavior using Python and pandas.  
-👉 [View Notebook]
+👉 [View Notebook](https://nbviewer.org/github/AdeAdeB/Bike-share-analysis/blob/main/Notebook/Mini_Project_Adeniyi_Rukayat.ipynb)
+
 👉 [View GitHub Repository](https://github.com/AdeAdeB/Bike-share-analysis)
 
 ### 🚢 Titanic Survival Analysis
